@@ -1,6 +1,8 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
 
+import { ViewRequest } from '../view-request/view-request';
+
 /**
  * Generated class for the Requests page.
  *
@@ -19,6 +21,10 @@ export class Requests {
 
   ionViewDidLoad() {
     console.log('ionViewDidLoad Requests');
+  }
+
+  request_view(_id){
+    this.navCtrl.push(ViewRequest);
   }
 
 }

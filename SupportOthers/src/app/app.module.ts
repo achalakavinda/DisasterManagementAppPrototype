@@ -17,6 +17,8 @@ import { Donations } from '../pages/donations/donations';
 import { Areas } from '../pages/areas/areas';
 import { NewRequest } from '../pages/new-request/new-request';
 import { NewDonation } from '../pages/new-donation/new-donation';
+import { ViewDonation } from '../pages/view-donation/view-donation'
+import { ViewRequest } from '../pages/view-request/view-request';
 
 @NgModule({
   declarations: [
@@ -30,7 +32,9 @@ import { NewDonation } from '../pages/new-donation/new-donation';
     Donations,
     Areas,
     NewDonation,
-    NewRequest
+    NewRequest,
+    ViewRequest,
+    ViewDonation
   ],
   imports: [
     BrowserModule,
@@ -48,7 +52,9 @@ import { NewDonation } from '../pages/new-donation/new-donation';
     Donations,
     Areas,
     NewDonation,
-    NewRequest
+    NewRequest,
+    ViewRequest,
+    ViewDonation
   ],
   providers: [
     StatusBar,

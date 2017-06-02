@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
+import { ViewRequest } from '../view-request/view-request';
 
 @Component({
   selector: 'page-home',
@@ -20,6 +21,7 @@ export class HomePage {
 
   request_view(val){
     console.log('click');
+    this.navCtrl.push(ViewRequest);
   }
 
 }
