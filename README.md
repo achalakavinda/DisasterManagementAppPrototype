@@ -10,8 +10,9 @@ This ionic hybrid app is a open source prototype for reliefsupports project
   - Install and run the app: npm install && ionic lab
   - enjoy !
 
+![Alt text](https://github.com/achalakavinda/DisasterManagementAppPrototype/blob/master/Images/Main%20Pages.PNG?raw=true "")
 
-![Alt text](https://github.com/achalakavinda/DisasterManagementAppPrototype/blob/master/Images/Home.PNG?raw=true "Optional title")
+![Alt text](https://github.com/achalakavinda/DisasterManagementAppPrototype/blob/master/Images/Home.PNG?raw=true "")
 
-![Alt text](https://github.com/achalakavinda/DisasterManagementAppPrototype/blob/master/Images/add%20items.PNG?raw=true "Optional title")
+![Alt text](https://github.com/achalakavinda/DisasterManagementAppPrototype/blob/master/Images/add%20items.PNG?raw=true "")
 
