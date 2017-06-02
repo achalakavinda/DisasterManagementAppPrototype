@@ -3,7 +3,7 @@ This ionic hybrid app is a open source prototype for reliefsupports project
 
 ## Manual Installation
 
-  - Download and install the Node.js version.
+  - Download and install the Node.js .
   - Download and install the ionic and cordova : npm install -g ionic cordova
   - Clone the repository and check out the master branch: git clone https://github.com/achalakavinda/DisasterManagementAppPrototype
   - Enter the repository 
