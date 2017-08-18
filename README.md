@@ -1,4 +1,4 @@
-# IONIC APP Prototye [ IONIC 3 ]
+# IONIC APP Prototye [ IONIC  ]
 This ionic hybrid app is a open source prototype for reliefsupports project
 
 ## Manual Installation
